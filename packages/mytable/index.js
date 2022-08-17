@@ -1,0 +1,1 @@
+export {default as MyTable} from "./components/index"

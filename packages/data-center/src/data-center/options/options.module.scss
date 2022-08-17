@@ -1,0 +1,11 @@
+.container {
+    li + li {
+        margin-top: 10px;
+    }
+    .label {
+        display: inline-block;
+        width: 80px;
+        text-align: right;
+        margin-right: 10px;
+    }
+}
